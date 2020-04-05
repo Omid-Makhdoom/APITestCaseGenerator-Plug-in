@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: APITestCaseGeneratorPlugIn
-Bundle-SymbolicName: APITestCaseGeneratorPlugIn;singleton:=true
-Bundle-Version: 1.0.0.qualifier
-Automatic-Module-Name: APITestCaseGeneratorPlugIn
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Require-Bundle: org.eclipse.ui,
- org.eclipse.equinox.p2.ui.sdk;bundle-version="1.1.500"
