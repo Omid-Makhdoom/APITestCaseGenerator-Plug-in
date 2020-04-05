@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <category
+            id="APITestCaseGeneratorPlugin"
+            name="FanapQC">
+      </category>
+      <wizard
+            category="APITestCaseGeneratorPlugin"
+            class="testplug.handlers.SampleNewWizard"
+            id="APITestCaseGeneratorPlugin.wizards.SampleNewWizard"
+            name="APITestCaseGeneratorPlugin">
+      </wizard>
+   </extension>
+
+
+</plugin>
